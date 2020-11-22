@@ -186,7 +186,7 @@ section .contentBox .sci li img:hover{
     width: 100%;
     background: #ffffffde;
     padding: 20px;
-    margin: 50px;
+    margin: 0px 20px;
  }
  section .contentBox .formBox h3 
  {
