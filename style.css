@@ -124,6 +124,12 @@ section .contentBox .formBox h3{
 	font-weight: 500;
 	margin: 80px 0 10px;
 }
+
+
+section .contentBox .formBox .remember{
+	padding: 0 8px 0 0;
+}
+
 section .contentBox .formBox .sci{
 	display: flex;
 	justify-content: center;
